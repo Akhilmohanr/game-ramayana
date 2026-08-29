@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Grass : MonoBehaviour
+public class Grass2 : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D other)
     {
