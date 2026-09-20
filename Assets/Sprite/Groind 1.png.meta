@@ -1,0 +1,2990 @@
+fileFormatVersion: 2
+guid: f4614f40015575841a6d3943f9790236
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4097006618246777575
+    second: Groind 1_0
+  - first:
+      213: -7591295320369595789
+    second: Groind 1_1
+  - first:
+      213: 7667823345589364575
+    second: Groind 1_2
+  - first:
+      213: -7653661846018057021
+    second: Groind 1_3
+  - first:
+      213: 8868609789094161423
+    second: Groind 1_4
+  - first:
+      213: 6364049657805156007
+    second: Groind 1_5
+  - first:
+      213: 2244371345354996250
+    second: Groind 1_6
+  - first:
+      213: -1026966712660357484
+    second: Groind 1_7
+  - first:
+      213: -193211125588009718
+    second: Groind 1_8
+  - first:
+      213: 6543559397102382693
+    second: Groind 1_9
+  - first:
+      213: -6034540283759013790
+    second: Groind 1_10
+  - first:
+      213: -182502166070185729
+    second: Groind 1_11
+  - first:
+      213: 7324234462362007435
+    second: Groind 1_12
+  - first:
+      213: 473778417192753773
+    second: Groind 1_13
+  - first:
+      213: 8308281393347385905
+    second: Groind 1_14
+  - first:
+      213: -5881778804010673229
+    second: Groind 1_15
+  - first:
+      213: -2685405493964400435
+    second: Groind 1_16
+  - first:
+      213: -8719247347122351225
+    second: Groind 1_17
+  - first:
+      213: -8119749300414155422
+    second: Groind 1_18
+  - first:
+      213: -3054580158433223797
+    second: Groind 1_19
+  - first:
+      213: -7984351294356292293
+    second: Groind 1_20
+  - first:
+      213: -4419578760986984483
+    second: Groind 1_21
+  - first:
+      213: -6016463815881109979
+    second: Groind 1_22
+  - first:
+      213: -5469072764135485409
+    second: Groind 1_23
+  - first:
+      213: -3665962633051153009
+    second: Groind 1_24
+  - first:
+      213: 6493810844921588871
+    second: Groind 1_25
+  - first:
+      213: -5576044552714890128
+    second: Groind 1_26
+  - first:
+      213: 6226668550066187356
+    second: Groind 1_27
+  - first:
+      213: 1788448061358253164
+    second: Groind 1_28
+  - first:
+      213: -4530682640789493570
+    second: Groind 1_29
+  - first:
+      213: -956694258417860350
+    second: Groind 1_30
+  - first:
+      213: 4055417515559386757
+    second: Groind 1_31
+  - first:
+      213: 6562317843023321215
+    second: Groind 1_32
+  - first:
+      213: 8325690874811628686
+    second: Groind 1_33
+  - first:
+      213: -7624186232139676684
+    second: Groind 1_34
+  - first:
+      213: 7005309174599551004
+    second: Groind 1_35
+  - first:
+      213: 7332543945455408855
+    second: Groind 1_36
+  - first:
+      213: -8100997473535702129
+    second: Groind 1_37
+  - first:
+      213: 6846848056686804240
+    second: Groind 1_38
+  - first:
+      213: 2172902647477223383
+    second: Groind 1_39
+  - first:
+      213: 2031366531339388548
+    second: Groind 1_40
+  - first:
+      213: 4722747898359504873
+    second: Groind 1_41
+  - first:
+      213: -2324994846412430266
+    second: Groind 1_42
+  - first:
+      213: 4946477082113876136
+    second: Groind 1_43
+  - first:
+      213: 5315558437469825767
+    second: Groind 1_44
+  - first:
+      213: -1166079589875985697
+    second: Groind 1_45
+  - first:
+      213: -8659612918205562274
+    second: Groind 1_46
+  - first:
+      213: -8992842691183041616
+    second: Groind 1_47
+  - first:
+      213: 7355328622351148298
+    second: Groind 1_48
+  - first:
+      213: 2631865198710452217
+    second: Groind 1_49
+  - first:
+      213: 7440238028768575293
+    second: Groind 1_50
+  - first:
+      213: 42936497310127400
+    second: Groind 1_51
+  - first:
+      213: -463140079053833585
+    second: Groind 1_52
+  - first:
+      213: 8058331699150174710
+    second: Groind 1_53
+  - first:
+      213: -3396565634200020772
+    second: Groind 1_54
+  - first:
+      213: 6463593213561932957
+    second: Groind 1_55
+  - first:
+      213: -3867691501715356220
+    second: Groind 1_56
+  - first:
+      213: -1868423809273410909
+    second: Groind 1_57
+  - first:
+      213: -8930355469143377616
+    second: Groind 1_58
+  - first:
+      213: 2942904869224848186
+    second: Groind 1_59
+  - first:
+      213: -762965570584674852
+    second: Groind 1_60
+  - first:
+      213: 5562348228202003667
+    second: Groind 1_61
+  - first:
+      213: 3663785315460955719
+    second: Groind 1_62
+  - first:
+      213: -1099215299046121917
+    second: Groind 1_63
+  - first:
+      213: 7557451933066227702
+    second: Groind 1_64
+  - first:
+      213: -4558628835848810659
+    second: Groind 1_65
+  - first:
+      213: -2246937809131301334
+    second: Groind 1_66
+  - first:
+      213: 8590554715736016124
+    second: Groind 1_67
+  - first:
+      213: -2505240975117075708
+    second: Groind 1_68
+  - first:
+      213: -2717686737877583127
+    second: Groind 1_69
+  - first:
+      213: -4717018502067418661
+    second: Groind 1_70
+  - first:
+      213: -4831054381498022056
+    second: Groind 1_71
+  - first:
+      213: -2602991114583248152
+    second: Groind 1_72
+  - first:
+      213: 6954686490085294389
+    second: Groind 1_73
+  - first:
+      213: 8095142641742251437
+    second: Groind 1_74
+  - first:
+      213: 2485520940780623450
+    second: Groind 1_75
+  - first:
+      213: 2316491726468413302
+    second: Groind 1_76
+  - first:
+      213: -4990835976026094196
+    second: Groind 1_77
+  - first:
+      213: -2473483902097013181
+    second: Groind 1_78
+  - first:
+      213: 3457280077674651682
+    second: Groind 1_79
+  - first:
+      213: -9101196566660269924
+    second: Groind 1_80
+  - first:
+      213: -2165622367004988446
+    second: Groind 1_81
+  - first:
+      213: 506044487837420207
+    second: Groind 1_82
+  - first:
+      213: 8571121902959045526
+    second: Groind 1_83
+  - first:
+      213: -8778952839197174717
+    second: Groind 1_84
+  - first:
+      213: 1548360668595555232
+    second: Groind 1_85
+  - first:
+      213: -3853057765469891546
+    second: Groind 1_86
+  - first:
+      213: -63409157597658524
+    second: Groind 1_87
+  - first:
+      213: 6281901423585711424
+    second: Groind 1_88
+  - first:
+      213: -8567180640474040251
+    second: Groind 1_89
+  - first:
+      213: -459255865111108502
+    second: Groind 1_90
+  - first:
+      213: 9098574325881660719
+    second: Groind 1_91
+  - first:
+      213: 4059648696169613201
+    second: Groind 1_92
+  - first:
+      213: 1558231890261203676
+    second: Groind 1_93
+  - first:
+      213: 3835544610262865558
+    second: Groind 1_94
+  - first:
+      213: 6868565286547140333
+    second: Groind 1_95
+  - first:
+      213: -2667117432097844474
+    second: Groind 1_96
+  - first:
+      213: 8609748373134080092
+    second: Groind 1_97
+  - first:
+      213: 6563166217458922914
+    second: Groind 1_98
+  - first:
+      213: -8772775424581072200
+    second: Groind 1_99
+  - first:
+      213: 5244312187185359072
+    second: Groind 1_100
+  - first:
+      213: -5028275040033630277
+    second: Groind 1_101
+  - first:
+      213: -7891462258046297227
+    second: Groind 1_102
+  - first:
+      213: -2825805295476087521
+    second: Groind 1_103
+  - first:
+      213: -2156623528871708762
+    second: Groind 1_104
+  - first:
+      213: -1959004749469809724
+    second: Groind 1_105
+  - first:
+      213: -3659519561846679911
+    second: Groind 1_106
+  - first:
+      213: -5514022845687270018
+    second: Groind 1_107
+  - first:
+      213: -8942975441848130471
+    second: Groind 1_108
+  - first:
+      213: -8626568358992700999
+    second: Groind 1_109
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Groind 1_0
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1406
+        width: 175
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915f9f400328427c0800000000000000
+      internalID: -4097006618246777575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_1
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 1236
+        width: 152
+        height: 612
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37af844602d46a690800000000000000
+      internalID: -7591295320369595789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_2
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1329
+        width: 23
+        height: 823
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f572d4af4b4996a60800000000000000
+      internalID: 7667823345589364575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_3
+      rect:
+        serializedVersion: 2
+        x: 3136
+        y: 1387
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc12251a1bb8c590800000000000000
+      internalID: -7653661846018057021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_4
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 1387
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c62828d91a31b70800000000000000
+      internalID: 8868609789094161423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_5
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1348
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae2c621275a15850800000000000000
+      internalID: 6364049657805156007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_6
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1193
+        width: 403
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1a33ffe8db952f10800000000000000
+      internalID: 2244371345354996250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_7
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 1353
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e8ab7473b7fb1f0800000000000000
+      internalID: -1026966712660357484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_8
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1351
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d5ca44183915df0800000000000000
+      internalID: -193211125588009718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_9
+      rect:
+        serializedVersion: 2
+        x: 1802
+        y: 1327
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ee4f63a946fca50800000000000000
+      internalID: 6543559397102382693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_10
+      rect:
+        serializedVersion: 2
+        x: 3062
+        y: 1372
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26052c39591014ca0800000000000000
+      internalID: -6034540283759013790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_11
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1382
+        width: 25
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0b5a43f3f977df0800000000000000
+      internalID: -182502166070185729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_12
+      rect:
+        serializedVersion: 2
+        x: 3502
+        y: 1353
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87f2c42078e4a560800000000000000
+      internalID: 7324234462362007435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_13
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1372
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a5503d5f2339600800000000000000
+      internalID: 473778417192753773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_14
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1348
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a557878e1fc4370800000000000000
+      internalID: 8308281393347385905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_15
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 1372
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb958b3759bf5ea0800000000000000
+      internalID: -5881778804010673229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_16
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 1363
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc89e5e5ee58bbad0800000000000000
+      internalID: -2685405493964400435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_17
+      rect:
+        serializedVersion: 2
+        x: 3675
+        y: 1355
+        width: 55
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783510efbb20ff680800000000000000
+      internalID: -8719247347122351225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_18
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 1367
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2657693180bd05f80800000000000000
+      internalID: -8119749300414155422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_19
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1324
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b91ae9783fb95d0800000000000000
+      internalID: -3054580158433223797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1308
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d76f9fcc2e13190800000000000000
+      internalID: -7984351294356292293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_21
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1344
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf728668808aa2c0800000000000000
+      internalID: -4419578760986984483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_22
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 1329
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e4a6a390a318ca0800000000000000
+      internalID: -6016463815881109979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_23
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1057
+        width: 147
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10d0f22c43f914b0800000000000000
+      internalID: -5469072764135485409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_24
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1312
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d51298862ef1dc0800000000000000
+      internalID: -3665962633051153009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_25
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1298
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c612ace86ae1a50800000000000000
+      internalID: 6493810844921588871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_26
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1310
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0745dafb509ed92b0800000000000000
+      internalID: -5576044552714890128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_27
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1140
+        width: 404
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5caac45e02996650800000000000000
+      internalID: 6226668550066187356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_28
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1284
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64ae744908d1d810800000000000000
+      internalID: 1788448061358253164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_29
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1284
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8a6bd8428cf11c0800000000000000
+      internalID: -4530682640789493570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_30
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1131
+        width: 335
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201095804a329b2f0800000000000000
+      internalID: -956694258417860350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_31
+      rect:
+        serializedVersion: 2
+        x: 1902
+        y: 1320
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e70de6ebcb74830800000000000000
+      internalID: 4055417515559386757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_32
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1310
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78dc904f49021b50800000000000000
+      internalID: 6562317843023321215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_33
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1193
+        width: 106
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cbbde3dbbca8370800000000000000
+      internalID: 8325690874811628686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_34
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1322
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f304eb3403713690800000000000000
+      internalID: -7624186232139676684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_35
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1324
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c188acd149bd73160800000000000000
+      internalID: 7005309174599551004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_36
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1310
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d69fc07edd62c560800000000000000
+      internalID: 7332543945455408855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_37
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1305
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b419ff7b9739f80800000000000000
+      internalID: -8100997473535702129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_38
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 1310
+        width: 55
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01df3e90804e40f50800000000000000
+      internalID: 6846848056686804240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_39
+      rect:
+        serializedVersion: 2
+        x: 2354
+        y: 1325
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfb2620273b72e10800000000000000
+      internalID: 2172902647477223383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_40
+      rect:
+        serializedVersion: 2
+        x: 2372
+        y: 1324
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4860a1df81dd03c10800000000000000
+      internalID: 2031366531339388548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_41
+      rect:
+        serializedVersion: 2
+        x: 2469
+        y: 1155
+        width: 191
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9efd07df0329a8140800000000000000
+      internalID: 4722747898359504873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_42
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 1310
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64429fa6185fbbfd0800000000000000
+      internalID: -2324994846412430266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_43
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 1310
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a02209d2ba65a440800000000000000
+      internalID: 4946477082113876136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_44
+      rect:
+        serializedVersion: 2
+        x: 2647
+        y: 1324
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea28306c38a4c940800000000000000
+      internalID: 5315558437469825767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_45
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 1217
+        width: 143
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2db998ac041dfe0800000000000000
+      internalID: -1166079589875985697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_46
+      rect:
+        serializedVersion: 2
+        x: 2843
+        y: 1303
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5249f57eefd2d780800000000000000
+      internalID: -8659612918205562274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_47
+      rect:
+        serializedVersion: 2
+        x: 2923
+        y: 1018
+        width: 803
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3211fe731033380800000000000000
+      internalID: -8992842691183041616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_48
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 1303
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05e08d6960631660800000000000000
+      internalID: 7355328622351148298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_49
+      rect:
+        serializedVersion: 2
+        x: 3410
+        y: 1324
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff69d93473468420800000000000000
+      internalID: 2631865198710452217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_50
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1289
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f7a1d2119014760800000000000000
+      internalID: 7440238028768575293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1284
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 825d11e448a889000800000000000000
+      internalID: 42936497310127400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_52
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1219
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8affba4d889299f0800000000000000
+      internalID: -463140079053833585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_53
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1281
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9bd1a4cf1f4df60800000000000000
+      internalID: 8058331699150174710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_54
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1284
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8553d2d89fcd0d0800000000000000
+      internalID: -3396565634200020772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_55
+      rect:
+        serializedVersion: 2
+        x: 2107
+        y: 1231
+        width: 76
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c0cfa38cb43b950800000000000000
+      internalID: 6463593213561932957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_56
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1286
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c585733213335ac0800000000000000
+      internalID: -3867691501715356220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_57
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 1131
+        width: 203
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa406ed1760216e0800000000000000
+      internalID: -1868423809273410909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_58
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 1277
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039fdbf0401011480800000000000000
+      internalID: -8930355469143377616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_59
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1241
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b1ae9e26c47d820800000000000000
+      internalID: 2942904869224848186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_60
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1241
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd727d1bd66965f0800000000000000
+      internalID: -762965570584674852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_61
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1241
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcf0033e3e613d40800000000000000
+      internalID: 5562348228202003667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_62
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1231
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eb755355168d230800000000000000
+      internalID: 3663785315460955719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_63
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1231
+        width: 83
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e5ea8628dceb0f0800000000000000
+      internalID: -1099215299046121917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_64
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1238
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff6085fd7671e860800000000000000
+      internalID: 7557451933066227702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_65
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 1236
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f0168f93f7cb0c0800000000000000
+      internalID: -4558628835848810659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_66
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1236
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a269556a7f541d0e0800000000000000
+      internalID: -2246937809131301334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_67
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 1243
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4800fcff7c73770800000000000000
+      internalID: 8590554715736016124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_68
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1231
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40bb4614b989b3dd0800000000000000
+      internalID: -2505240975117075708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_69
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1231
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea34029f46d84ad0800000000000000
+      internalID: -2717686737877583127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_70
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1236
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd983590aa8c98eb0800000000000000
+      internalID: -4717018502067418661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_71
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1231
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8574734d2a5a4fcb0800000000000000
+      internalID: -4831054381498022056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_72
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e274cd5f5150ebd0800000000000000
+      internalID: -2602991114583248152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_73
+      rect:
+        serializedVersion: 2
+        x: 1523
+        y: 1212
+        width: 46
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5310eb5e382048060800000000000000
+      internalID: 6954686490085294389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_74
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1231
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da50a2fb759b75070800000000000000
+      internalID: 8095142641742251437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_75
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1260
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56160570285e7220800000000000000
+      internalID: 2485520940780623450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_76
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 1226
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 677f741b3f4d52020800000000000000
+      internalID: 2316491726468413302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_77
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 1238
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8589b45f1dfcbab0800000000000000
+      internalID: -4990835976026094196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_78
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1231
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3464cd10f7b6cadd0800000000000000
+      internalID: -2473483902097013181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_79
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 1238
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22025d6c9e9baff20800000000000000
+      internalID: 3457280077674651682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_80
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1207
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98b53d51fd02b180800000000000000
+      internalID: -9101196566660269924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_81
+      rect:
+        serializedVersion: 2
+        x: 2854
+        y: 1207
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebe6016ee922f1e0800000000000000
+      internalID: -2165622367004988446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_82
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 1250
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa0812d7c4d50700800000000000000
+      internalID: 506044487837420207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_83
+      rect:
+        serializedVersion: 2
+        x: 2886
+        y: 1245
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ba17085fdb2f670800000000000000
+      internalID: 8571121902959045526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_84
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 1245
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344deb7d7e4ea2680800000000000000
+      internalID: -8778952839197174717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_85
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 1236
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab03d313d1ec7510800000000000000
+      internalID: 1548360668595555232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_86
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 1260
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6245b1e6060378ac0800000000000000
+      internalID: -3853057765469891546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_87
+      rect:
+        serializedVersion: 2
+        x: 3763
+        y: 1222
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46282e505b9be1ff0800000000000000
+      internalID: -63409157597658524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_88
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1217
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 045d8d2df0ccd2750800000000000000
+      internalID: 6281901423585711424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_89
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 1202
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548f0fd29924b1980800000000000000
+      internalID: -8567180640474040251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_90
+      rect:
+        serializedVersion: 2
+        x: 2822
+        y: 1198
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a903593560a9f0800000000000000
+      internalID: -459255865111108502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_91
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1202
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f256aa0a421a44e70800000000000000
+      internalID: 9098574325881660719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_92
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 1198
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1974110faf4c65830800000000000000
+      internalID: 4059648696169613201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_93
+      rect:
+        serializedVersion: 2
+        x: 2234
+        y: 1193
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda54b8f5a3ff9510800000000000000
+      internalID: 1558231890261203676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_94
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 1174
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696d1ee50879a3530800000000000000
+      internalID: 3835544610262865558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_95
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1183
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deea835acbb025f50800000000000000
+      internalID: 6868565286547140333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_96
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1179
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6035e8593de7cfad0800000000000000
+      internalID: -2667117432097844474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_97
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1179
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58772a6788fb7770800000000000000
+      internalID: 8609748373134080092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_98
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 1176
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5bb71d6ec051b50800000000000000
+      internalID: 6563166217458922914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_99
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1174
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba81934b37d04680800000000000000
+      internalID: -8772775424581072200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_100
+      rect:
+        serializedVersion: 2
+        x: 2868
+        y: 1174
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e86f60162a87c840800000000000000
+      internalID: 5244312187185359072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_101
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1155
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb715d5fd7af73ab0800000000000000
+      internalID: -5028275040033630277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_102
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 1155
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b9fb613e4eb7290800000000000000
+      internalID: -7891462258046297227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_103
+      rect:
+        serializedVersion: 2
+        x: 2185
+        y: 1159
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15eab63e09b8c8d0800000000000000
+      internalID: -2825805295476087521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_104
+      rect:
+        serializedVersion: 2
+        x: 3244
+        y: 1112
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a73a57a3522212e0800000000000000
+      internalID: -2156623528871708762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1135
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c38c824f8730d4e0800000000000000
+      internalID: -1959004749469809724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_106
+      rect:
+        serializedVersion: 2
+        x: 3198
+        y: 1119
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9961983f856c63dc0800000000000000
+      internalID: -3659519561846679911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3840
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75fb67bf614a73b0800000000000000
+      internalID: -5514022845687270018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_108
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 1009
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954a991b73b24e380800000000000000
+      internalID: -8942975441848130471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Groind 1_109
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 980
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b99d9378c5484880800000000000000
+      internalID: -8626568358992700999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Groind 1_0: -4097006618246777575
+      Groind 1_1: -7591295320369595789
+      Groind 1_10: -6034540283759013790
+      Groind 1_100: 5244312187185359072
+      Groind 1_101: -5028275040033630277
+      Groind 1_102: -7891462258046297227
+      Groind 1_103: -2825805295476087521
+      Groind 1_104: -2156623528871708762
+      Groind 1_105: -1959004749469809724
+      Groind 1_106: -3659519561846679911
+      Groind 1_107: -5514022845687270018
+      Groind 1_108: -8942975441848130471
+      Groind 1_109: -8626568358992700999
+      Groind 1_11: -182502166070185729
+      Groind 1_12: 7324234462362007435
+      Groind 1_13: 473778417192753773
+      Groind 1_14: 8308281393347385905
+      Groind 1_15: -5881778804010673229
+      Groind 1_16: -2685405493964400435
+      Groind 1_17: -8719247347122351225
+      Groind 1_18: -8119749300414155422
+      Groind 1_19: -3054580158433223797
+      Groind 1_2: 7667823345589364575
+      Groind 1_20: -7984351294356292293
+      Groind 1_21: -4419578760986984483
+      Groind 1_22: -6016463815881109979
+      Groind 1_23: -5469072764135485409
+      Groind 1_24: -3665962633051153009
+      Groind 1_25: 6493810844921588871
+      Groind 1_26: -5576044552714890128
+      Groind 1_27: 6226668550066187356
+      Groind 1_28: 1788448061358253164
+      Groind 1_29: -4530682640789493570
+      Groind 1_3: -7653661846018057021
+      Groind 1_30: -956694258417860350
+      Groind 1_31: 4055417515559386757
+      Groind 1_32: 6562317843023321215
+      Groind 1_33: 8325690874811628686
+      Groind 1_34: -7624186232139676684
+      Groind 1_35: 7005309174599551004
+      Groind 1_36: 7332543945455408855
+      Groind 1_37: -8100997473535702129
+      Groind 1_38: 6846848056686804240
+      Groind 1_39: 2172902647477223383
+      Groind 1_4: 8868609789094161423
+      Groind 1_40: 2031366531339388548
+      Groind 1_41: 4722747898359504873
+      Groind 1_42: -2324994846412430266
+      Groind 1_43: 4946477082113876136
+      Groind 1_44: 5315558437469825767
+      Groind 1_45: -1166079589875985697
+      Groind 1_46: -8659612918205562274
+      Groind 1_47: -8992842691183041616
+      Groind 1_48: 7355328622351148298
+      Groind 1_49: 2631865198710452217
+      Groind 1_5: 6364049657805156007
+      Groind 1_50: 7440238028768575293
+      Groind 1_51: 42936497310127400
+      Groind 1_52: -463140079053833585
+      Groind 1_53: 8058331699150174710
+      Groind 1_54: -3396565634200020772
+      Groind 1_55: 6463593213561932957
+      Groind 1_56: -3867691501715356220
+      Groind 1_57: -1868423809273410909
+      Groind 1_58: -8930355469143377616
+      Groind 1_59: 2942904869224848186
+      Groind 1_6: 2244371345354996250
+      Groind 1_60: -762965570584674852
+      Groind 1_61: 5562348228202003667
+      Groind 1_62: 3663785315460955719
+      Groind 1_63: -1099215299046121917
+      Groind 1_64: 7557451933066227702
+      Groind 1_65: -4558628835848810659
+      Groind 1_66: -2246937809131301334
+      Groind 1_67: 8590554715736016124
+      Groind 1_68: -2505240975117075708
+      Groind 1_69: -2717686737877583127
+      Groind 1_7: -1026966712660357484
+      Groind 1_70: -4717018502067418661
+      Groind 1_71: -4831054381498022056
+      Groind 1_72: -2602991114583248152
+      Groind 1_73: 6954686490085294389
+      Groind 1_74: 8095142641742251437
+      Groind 1_75: 2485520940780623450
+      Groind 1_76: 2316491726468413302
+      Groind 1_77: -4990835976026094196
+      Groind 1_78: -2473483902097013181
+      Groind 1_79: 3457280077674651682
+      Groind 1_8: -193211125588009718
+      Groind 1_80: -9101196566660269924
+      Groind 1_81: -2165622367004988446
+      Groind 1_82: 506044487837420207
+      Groind 1_83: 8571121902959045526
+      Groind 1_84: -8778952839197174717
+      Groind 1_85: 1548360668595555232
+      Groind 1_86: -3853057765469891546
+      Groind 1_87: -63409157597658524
+      Groind 1_88: 6281901423585711424
+      Groind 1_89: -8567180640474040251
+      Groind 1_9: 6543559397102382693
+      Groind 1_90: -459255865111108502
+      Groind 1_91: 9098574325881660719
+      Groind 1_92: 4059648696169613201
+      Groind 1_93: 1558231890261203676
+      Groind 1_94: 3835544610262865558
+      Groind 1_95: 6868565286547140333
+      Groind 1_96: -2667117432097844474
+      Groind 1_97: 8609748373134080092
+      Groind 1_98: 6563166217458922914
+      Groind 1_99: -8772775424581072200
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

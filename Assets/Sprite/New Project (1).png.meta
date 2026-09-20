@@ -1,55 +1,109 @@
 fileFormatVersion: 2
-guid: 9b1d1452ccd088144bfd111496ca923a
+guid: 14810decc681ca94890fefa7e3cef1f5
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5064937422443895173
-    second: p2 1_0
+      213: 3858442786510194047
+    second: New Project (1)_0
   - first:
-      213: -8800533537374363331
-    second: p2 1_1
+      213: 4658461570455239070
+    second: New Project (1)_1
   - first:
-      213: -5392756925192530893
-    second: p2 1_2
+      213: 8174236908439186778
+    second: New Project (1)_2
   - first:
-      213: -1446814305971024981
-    second: p2 1_3
+      213: -7684412949682010179
+    second: New Project (1)_3
   - first:
-      213: 692669555395986921
-    second: p2 1_4
+      213: -5848913593153792136
+    second: New Project (1)_4
   - first:
-      213: -1726285677938930547
-    second: p2 1_5
+      213: 9168642218371075729
+    second: New Project (1)_5
   - first:
-      213: 9074767170573597677
-    second: p2 1_6
+      213: -5759391129204909480
+    second: New Project (1)_6
   - first:
-      213: 591476290202271055
-    second: p2 1_7
+      213: 705103237752040651
+    second: New Project (1)_7
   - first:
-      213: -807272901929095582
-    second: p2 1_8
+      213: 3956930387375272973
+    second: New Project (1)_8
   - first:
-      213: -87701292235082622
-    second: p2 1_9
+      213: -8727443763792584741
+    second: New Project (1)_9
   - first:
-      213: 9143228294728601071
-    second: p2 1_10
+      213: -969306654457229429
+    second: New Project (1)_10
   - first:
-      213: 5537437777679998441
-    second: p2 1_11
+      213: 8570100889538320239
+    second: New Project (1)_11
   - first:
-      213: 7345143960273815089
-    second: p2 1_12
+      213: -1035674480981006243
+    second: New Project (1)_12
   - first:
-      213: 6951329723385322493
-    second: p2 1_13
+      213: 7506096144406593702
+    second: New Project (1)_13
   - first:
-      213: -7755365115243818916
-    second: p2 1_14
+      213: -3356430975336846059
+    second: New Project (1)_14
   - first:
-      213: 1590345356558979777
-    second: p2 1_15
+      213: -3017578313775579746
+    second: New Project (1)_15
+  - first:
+      213: 3254051341031235304
+    second: New Project (1)_16
+  - first:
+      213: 981592923923908244
+    second: New Project (1)_17
+  - first:
+      213: -3353730255771020980
+    second: New Project (1)_18
+  - first:
+      213: 6667240890641851624
+    second: New Project (1)_19
+  - first:
+      213: -1352557023996591425
+    second: New Project (1)_20
+  - first:
+      213: -6363600000698531814
+    second: New Project (1)_21
+  - first:
+      213: 1827031709068118574
+    second: New Project (1)_22
+  - first:
+      213: 881392381435076776
+    second: New Project (1)_23
+  - first:
+      213: 2070319716322930399
+    second: New Project (1)_24
+  - first:
+      213: 6324670292526478219
+    second: New Project (1)_25
+  - first:
+      213: -2968973730629573605
+    second: New Project (1)_26
+  - first:
+      213: 8881590608864289480
+    second: New Project (1)_27
+  - first:
+      213: -151597344136504554
+    second: New Project (1)_28
+  - first:
+      213: -4372074806116187087
+    second: New Project (1)_29
+  - first:
+      213: 8582740101807102345
+    second: New Project (1)_30
+  - first:
+      213: -4034517955806019618
+    second: New Project (1)_31
+  - first:
+      213: 4461147168892195621
+    second: New Project (1)_32
+  - first:
+      213: 792850728148286756
+    second: New Project (1)_33
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,7 +150,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -158,89 +212,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: p2 1_0
+      name: New Project (1)_0
       rect:
         serializedVersion: 2
-        x: 16
-        y: 507
-        width: 303
-        height: 210
+        x: 0
+        y: 0
+        width: 1920
+        height: 2160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: b7626addf3ab5b9b0800000000000000
-      internalID: -5064937422443895173
+      spriteID: ff717c2292cdde747bc7903937a079f0
+      internalID: 3858442786510194047
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: p2 1_1
+      name: New Project (1)_1
       rect:
         serializedVersion: 2
-        x: 422
-        y: 495
-        width: 800
-        height: 225
+        x: 1920
+        y: 0
+        width: 1920
+        height: 2160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d31a3eeff593ed580800000000000000
-      internalID: -8800533537374363331
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: p2 1_2
-      rect:
-        serializedVersion: 2
-        x: 437
-        y: 586
-        width: 6
-        height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3341fd906241925b0800000000000000
-      internalID: -5392756925192530893
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: p2 1_13
-      rect:
-        serializedVersion: 2
-        x: 67
-        y: 274
-        width: 1189
-        height: 92
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dfb1ffebd85187060800000000000000
-      internalID: 6951329723385322493
+      spriteID: 1e73f06d1e50a064bb885d7820a61a78
+      internalID: 4658461570455239070
       vertices: []
       indices: 
       edges: []
@@ -249,7 +259,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 365ab6ecb2c4b0844a7b806ac00bf252
+    spriteID: c2c549c0d05d719459d918113e4bd48b
     internalID: 0
     vertices: []
     indices: 
@@ -257,24 +267,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":2.0,"y":1.0},"gridSpriteSize":{"x":1920.0,"y":2160.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      p2 1_0: -5064937422443895173
-      p2 1_1: -8800533537374363331
-      p2 1_10: 9143228294728601071
-      p2 1_11: 5537437777679998441
-      p2 1_12: 7345143960273815089
-      p2 1_13: 6951329723385322493
-      p2 1_14: -7755365115243818916
-      p2 1_15: 1590345356558979777
-      p2 1_2: -5392756925192530893
-      p2 1_3: -1446814305971024981
-      p2 1_4: 692669555395986921
-      p2 1_5: -1726285677938930547
-      p2 1_6: 9074767170573597677
-      p2 1_7: 591476290202271055
-      p2 1_8: -807272901929095582
-      p2 1_9: -87701292235082622
+      New Project (1)_0: 3858442786510194047
+      New Project (1)_1: 4658461570455239070
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

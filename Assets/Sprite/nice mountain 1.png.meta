@@ -1,55 +1,37 @@
 fileFormatVersion: 2
-guid: 399c9e1f4b4ee9d44894f14079ed98af
+guid: 8fa3e5de570726444ba0c48253f69c74
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3696665515696150500
-    second: rainDrop_0
+      213: -7307757491235823389
+    second: nice mountain 1_0
   - first:
-      213: 2659560784082124743
-    second: rainDrop_1
+      213: 366647848753350342
+    second: nice mountain 1_1
   - first:
-      213: -2620588100714345032
-    second: rainDrop_2
+      213: -7542258433736351797
+    second: nice mountain 1_2
   - first:
-      213: 1152957303815938518
-    second: rainDrop_3
+      213: -6340994034843975622
+    second: nice mountain 1_3
   - first:
-      213: 8101309327878329132
-    second: rainDrop_4
+      213: 8515506560985662108
+    second: nice mountain 1_4
   - first:
-      213: 8628207680258952375
-    second: rainDrop_5
+      213: 2921586640919641784
+    second: nice mountain 1_5
   - first:
-      213: 7356797802005840479
-    second: rainDrop_6
+      213: 100955364387582690
+    second: nice mountain 1_6
   - first:
-      213: 9098385625802974323
-    second: rainDrop_7
+      213: -7606263572019919603
+    second: nice mountain 1_7
   - first:
-      213: 7019218438110503509
-    second: rainDrop_8
+      213: 5954154483351581287
+    second: nice mountain 1_8
   - first:
-      213: 1125383059821987284
-    second: rainDrop_9
-  - first:
-      213: 9126820715794556997
-    second: rainDrop_10
-  - first:
-      213: -8905361888610491733
-    second: rainDrop_11
-  - first:
-      213: -5621791626747514629
-    second: rainDrop_12
-  - first:
-      213: -2068360440004446276
-    second: rainDrop_13
-  - first:
-      213: 4066499697122977265
-    second: rainDrop_14
-  - first:
-      213: -8917863096594138431
-    second: rainDrop_15
+      213: -2278249612656345794
+    second: nice mountain 1_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -91,12 +73,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -117,7 +99,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -158,177 +140,221 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: rainDrop_0
+      name: nice mountain 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1555
+        y: 4307
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c18ae7b9c4ec2bcc0800000000000000
-      internalID: -3696665515696150500
+      spriteID: 3e06036a741a59a90800000000000000
+      internalID: -7307757491235823389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rainDrop_1
+      name: nice mountain 1_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1523
+        y: 4273
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7cf36c13178a8e420800000000000000
-      internalID: 2659560784082124743
+      spriteID: 6c6ca9e9648961500800000000000000
+      internalID: 366647848753350342
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rainDrop_2
+      name: nice mountain 1_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 679
+        y: 4045
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8bd4e42c10dc1abd0800000000000000
-      internalID: -2620588100714345032
+      spriteID: bcf53f44ae3845790800000000000000
+      internalID: -7542258433736351797
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rainDrop_3
+      name: nice mountain 1_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 689
+        y: 4057
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6d124272f80200010800000000000000
-      internalID: 1152957303815938518
+      spriteID: a30014675834008a0800000000000000
+      internalID: -6340994034843975622
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rainDrop_4
+      name: nice mountain 1_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 555
+        y: 3855
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c231fbf39e1ad6070800000000000000
-      internalID: 8101309327878329132
+      spriteID: c920f02a9182d2670800000000000000
+      internalID: 8515506560985662108
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rainDrop_5
+      name: nice mountain 1_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 569
+        y: 3855
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7bcc126cb2d8db770800000000000000
-      internalID: 8628207680258952375
+      spriteID: 8beba88129f8b8820800000000000000
+      internalID: 2921586640919641784
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rainDrop_6
+      name: nice mountain 1_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3833
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2fd787e5aa66100800000000000000
+      internalID: 100955364387582690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice mountain 1_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3649
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0542c9b49f117690800000000000000
+      internalID: -7606263572019919603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice mountain 1_8
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3649
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76278f5c4f761a250800000000000000
+      internalID: 5954154483351581287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: nice mountain 1_9
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 7680
+        height: 3641
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f52cee87f98981660800000000000000
-      internalID: 7356797802005840479
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: rainDrop_7
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 374a1877585f34e70800000000000000
-      internalID: 9098385625802974323
+      spriteID: e3d72f74c080260e0800000000000000
+      internalID: -2278249612656345794
       vertices: []
       indices: 
       edges: []
@@ -337,7 +363,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: be92ebadab2754d4c802b3e565e1e59b
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -345,18 +371,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      rainDrop_0: -3696665515696150500
-      rainDrop_1: 2659560784082124743
-      rainDrop_2: -2620588100714345032
-      rainDrop_3: 1152957303815938518
-      rainDrop_4: 8101309327878329132
-      rainDrop_5: 8628207680258952375
-      rainDrop_6: 7356797802005840479
-      rainDrop_7: 9098385625802974323
+      nice mountain 1_0: -7307757491235823389
+      nice mountain 1_1: 366647848753350342
+      nice mountain 1_2: -7542258433736351797
+      nice mountain 1_3: -6340994034843975622
+      nice mountain 1_4: 8515506560985662108
+      nice mountain 1_5: 2921586640919641784
+      nice mountain 1_6: 100955364387582690
+      nice mountain 1_7: -7606263572019919603
+      nice mountain 1_8: 5954154483351581287
+      nice mountain 1_9: -2278249612656345794
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
